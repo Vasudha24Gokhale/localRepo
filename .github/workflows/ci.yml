@@ -16,6 +16,3 @@ jobs:
 
       - name: Print Message
         run: echo "CI Pipeline Running Successfully"
-
-      - name: List Files
-        run: ls
